@@ -4,16 +4,7 @@
 ## 📌 Project Description  
 This project provides insights into Zomato’s business performance with a primary focus on restaurant and cuisine analysis. The aim is to explore trends in customer preferences, identify high-performing restaurants, and analyze geographic and cultural patterns influencing sales. By leveraging data-driven insights, this analysis guides strategic decisions to enhance operational efficiency, increase customer satisfaction, and boost profitability.
 
-## 🎯 Objective & Goal  
-**Objective:**  
-To analyze Zomato’s restaurant data and extract meaningful insights into business performance.  
-
-**Goal:**  
-Gain actionable insights to make evidence-based decisions to run the business more efficiently, improve customer satisfaction, and increase profitability.
-
-## 🔍 Analysis  
-
-### 1. Research Questions & Hypotheses  
+###  Research Questions & Hypotheses  
 - **RQ1: What restaurants are popular?**  
   *Hypothesis:* Restaurants with the most sales and highest ratings are the most popular.
 
@@ -26,7 +17,12 @@ Gain actionable insights to make evidence-based decisions to run the business mo
 - **RQ4: Which cities are more popular?**  
   *Hypothesis:* Cities offering delivery services are the most popular.
 
-### 2. Data Preparation & Cleaning  
+## 🔍 Analysis  
+
+<a href="https://github.com/nashae22/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/Decomposition%20Plan.pdf">Decomposition Plan</a><br/>
+<a href="https://github.com/nashae22/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/Analysis%20Report.pdf">Analysis Report</a>
+
+###  Data Preparation & Cleaning  
 - **Data Collection:**  
   Gathered datasets including customer demographics, order details, restaurant metadata, and customer reviews.
 
@@ -35,12 +31,16 @@ Gain actionable insights to make evidence-based decisions to run the business mo
   - Addressed missing values  
   - Created calculated columns and DAX measures for enhanced insights
 
-### 3. Key Findings  
+### Key Findings  
 - **Dominos** is the most popular and top-selling restaurant across cities.  
-- Contrary to expectations, restaurants with **3.5 and 4-star ratings** generated the most sales, not necessarily the highest-rated ones.  
+- Contrary to expectations, restaurants with **3.5 and 4-star ratings** generated the most sales, not necessarily the highest-rated ones.
+ <img src="Dashboard1.png" width="700"/>
+   
 - **Fast food and desserts** dominate the cuisine preferences, not just locally-inspired dishes.  
 - **Tirupati** was the city with the highest sales, indicating strong customer demand in that region.  
 - A visualization of **sales by rating bin** and **restaurant performance by city** revealed patterns useful for marketing and expansion.
+  <img src="Dashboard2.png" width="700"/>
+  
 
 ## ✅ Conclusions  
 - Ratings do influence sales, but not linearly. Moderate ratings (3.5 to 4 stars) outperform higher ratings in total sales.  
