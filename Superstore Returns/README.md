@@ -12,13 +12,17 @@ The superstore is in peril! As a consultant, this project aimed to assess the bu
 - **Geographic Patterns:** Concentration of returns appeared significantly higher in the Western U.S., particularly in states like California where one or a few customers could skew the results.
 - **Category Trends:** Furniture, Office Supplies, and Technology showed varying return behaviors, with Furniture and Technology having notably higher average return flags.
   
-<a href="https://public.tableau.com/app/profile/nashae.pena/viz/Book6_17460268638290/GeographicMeasure">Tableau Story</a>
+<a href="https://public.tableau.com/app/profile/nashae.pena/viz/Book6_17460268638290/GeographicMeasure">Tableau Story</a><br/>
 
+<a href="https://github.com/nashae22/Data_projects_TripleTen/blob/main/Superstore%20Returns/Analysis%20Report.pdf">Analysis Document</a>
 
 ### Analytical Techniques:
-- Correlation analysis between sales and returns  
+- Correlation analysis between sales and returns
+  <img src="Dashboard2.png"  width=700/>
 - Filtering and geospatial tools to isolate customer and region-based anomalies  
-- Time-series analysis to track changes in return rate and profit over time  
+- Time-series analysis to track changes in return rate and profit over time
+  
+ <img src="Dashboard1.png"  width=700/>
 
 ## ✅ Conclusions  
 
