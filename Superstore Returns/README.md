@@ -11,6 +11,9 @@ The superstore is in peril! As a consultant, this project aimed to assess the bu
 - **Return Rate by Date:** Examination of monthly/seasonal trends in returns; August showed unusually high return rates.
 - **Geographic Patterns:** Concentration of returns appeared significantly higher in the Western U.S., particularly in states like California where one or a few customers could skew the results.
 - **Category Trends:** Furniture, Office Supplies, and Technology showed varying return behaviors, with Furniture and Technology having notably higher average return flags.
+  
+<a href="https://public.tableau.com/app/profile/nashae.pena/viz/Book6_17460268638290/GeographicMeasure">Tableau Story</a>
+
 
 ### Analytical Techniques:
 - Correlation analysis between sales and returns  
