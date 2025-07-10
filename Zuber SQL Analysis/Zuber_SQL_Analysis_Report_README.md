@@ -11,8 +11,12 @@ The analysis focuses on the following core areas:
 1. **Ride Volume by Taxi Company**  
    Rides from November 1–7, 2017, were analyzed to identify top-performing taxi companies. Flash Cab and Taxi Affiliation Services emerged as the leading competitors, while all other companies were grouped under "Other." The number of rides per company was calculated and sorted in descending order to determine market dominance during this period.
 
-2. **Neighborhood Identification**  
+    <img src="SQL1.png"  width=700/>
+
+3. **Neighborhood Identification**  
    Using the `neighborhoods` table, neighborhood IDs were retrieved for two key areas in Chicago: O'Hare and the Loop. These identifiers support further geo-based ride trend analysis.
+
+    <img src="SQL2.png"  width=700/>
 
 ## Conclusions
 
