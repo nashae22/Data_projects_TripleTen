@@ -4,6 +4,9 @@
 
 Zuber, a new ride-sharing company preparing to launch in Chicago, seeks insights into passenger behavior and external factors affecting ride activity. This project analyzes historical taxi ride data to uncover trends, assess competitor performance, and determine how weather conditions influence demand. The dataset includes ride details, taxi company ownership, pickup and drop-off locations by neighborhood, and weather data.
 
+
+<a href="https://github.com/nashae22/Data_projects_TripleTen/blob/main/Superstore%20Returns/Analysis%20Report.pdf](https://github.com/nashae22/Data_projects_TripleTen/blob/main/Zuber%20SQL%20Analysis/Zuber%20SQL%20Analysis%20Report.pdf)">Analysis Document</a>
+
 ## Analysis
 
 The analysis focuses on the following core areas:
