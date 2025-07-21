@@ -1,2 +1,0 @@
-
-# Triple Ten Data Projects
