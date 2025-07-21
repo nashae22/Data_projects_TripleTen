@@ -5,6 +5,8 @@
 
 This project analyzes user behavior on an e-commerce platform to evaluate how effectively the website converts product views into purchases. As a junior data analyst, the primary goal was to examine transaction logs, build a conversion funnel, conduct cohort analysis, and measure customer retention over time.
 
+<a href="https://github.com/nashae22/Data_projects_TripleTen/blob/main/Superstore%20Returns/Analysis%20Report.pdf(https://docs.google.com/document/d/1IyiDVf9sTTFnICr5pyAFBdw84ijoc3UAgNfYgOrvcZ0/edit?usp=sharing)">Analysis Document</a>
+
 ## 🎯 Objectives
 
 - Construct a **conversion funnel** to track user flow from product views to purchases.
@@ -19,6 +21,8 @@ This project analyzes user behavior on an e-commerce platform to evaluate how ef
 - **Purchases**: 1,081 (10% total conversion)
 
 This highlights a strong drop-off between product views and purchases, especially between cart and checkout.
+
+<img src="ecomm1.png"  width=700/>
 
 ### Cohort and Retention Analysis
 - Acquisition was strongest from **Oct 2020 to Jan 2021**.
